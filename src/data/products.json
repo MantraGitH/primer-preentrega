@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "status": true,
+      "title": "zapato 1",
+      "description": "zapato 1",
+      "code": "asd1",
+      "price": 80,
+      "stock": 50,
+      "category": "calzao",
+      "thumbnails": "img.jpg"
+    },
+    {
+      "id": 2,
+      "status": true,
+      "title": "zapato 2",
+      "description": "zapato 2",
+      "code": "asd2",
+      "price": 150,
+      "stock": 50,
+      "category": "calzao",
+      "thumbnails": "img.jpg"
+    },
+    {
+      "id": 3,
+      "status": true,
+      "title": "zapato 3",
+      "description": "zapato 3",
+      "code": "asd3",
+      "price": 80,
+      "stock": 50,
+      "category": "calzao",
+      "thumbnails": "img.jpg"
+    },
+    {
+      "id": 4,
+      "status": true,
+      "title": "zapato 4",
+      "description": "zapato 4",
+      "code": "asd4",
+      "price": 150,
+      "stock": 50,
+      "category": "calzao",
+      "thumbnails": "img.jpg"
+    },
+    {
+      "id": 5,
+      "status": true,
+      "title": "zapato 5",
+      "description": "zapato 5",
+      "code": "asd5",
+      "price": 200,
+      "stock": 50,
+      "category": "calzao",
+      "thumbnails": "img.jpg"
+    }
+  ]
