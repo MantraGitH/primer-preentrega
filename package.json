@@ -2,11 +2,11 @@
   "name": "preentrega1-bcknd",
   "version": "1.0.0",
   "description": "",
-  "main": "./src/express.js",
+  "main": "./src/server.js",
   "type": "module",
   "scripts": {
-    "dev" :"node --watch app.js",
-    "start":"node app.js"
+    "dev" :"node --watch server.js",
+    "start":"node ./src/server.js"
 
   },
   "keywords": [],
